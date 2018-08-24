@@ -1,4 +1,2 @@
 # hello-world
-void main(){
-printf("Hello world!/n");
-}
+Just a test repository
