@@ -1,2 +1,4 @@
 # hello-world
-Just a test repository
+void main(){
+printf("Hello world!/n");
+}
